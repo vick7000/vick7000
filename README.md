@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## snek
-![snake gif](https://github.com/vick7000/vick7000/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/vick7000/vick7000/blob/output/github-contribution-grid-snake.svg)
